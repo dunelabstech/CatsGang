@@ -6,9 +6,9 @@
 
 3. Склонировать репозиторий.
 
-4. Зайти на [https://my.telegram.org/](https://my.telegram.org/) и получить API Hash и API ID.
+4. Зайти на [https://my.telegram.org/](https://my.telegram.org/), создать новое приложение и получить API Hash и API ID.
 
-5. Вставить в файл **config.рy** **api_hash** и **api_id**. Вы найдете переменные с именами `API_ID` и `API_HASH` в файле.
+5. Вставить **api_hash** и **api_id** в файл **config.рy**. Вы найдете переменные с именами `API_ID` и `API_HASH` в файле.
 
 6. В файле **config.рy** модифицировать содержимое параметров `TG` и `REQUESTS`. Вместо значения **http** вы можете выбрать **socks4** или **socks5**..
 
